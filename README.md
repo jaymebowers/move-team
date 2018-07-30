@@ -16,5 +16,5 @@ What this script does:
 5. Copy the files from each source channel into the corresponding target channel.
 
 # EXAMPLE
-#Run the script with no switches. Menus and prompts are presented at run time.
+Run the script with no switches. Menus and prompts are presented at run time.
 .\move-teams.ps1
