@@ -2,7 +2,9 @@
 Used to consolidate teams by copying one team's members, owners, channels, and files to another team.
 
 # DISCLAIMER
-###############Disclaimer##################################################### THIS CODE IS PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT. ###############Disclaimer#####################################################
+###############Disclaimer##################################################### 
+THIS CODE IS PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT. 
+###############Disclaimer#####################################################
 
 # OPTIONS
 What this script does: 
