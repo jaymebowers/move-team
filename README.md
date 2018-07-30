@@ -13,7 +13,7 @@ What this script does:
 4. Loop through source channels and either confirm they exist in the target team or create them.  
 5. Copy the files from each source channel into the corresponding target channel.  
 
-EXAMPLE
+EXAMPLE  
 Run the script with no switches. Menus and prompts are presented at run time.  
 .\move-teams.ps1
 
