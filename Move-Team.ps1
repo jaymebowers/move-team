@@ -11,7 +11,6 @@ What this script does:
 	If current user is owner in target team, add members/owners to target team. 
 4. Loop through source channels and either confirm they exist in the target team or create them.
 5. Copy the files from each source channel into the corresponding target channel.
-to-do=>6. Post "Team Has Moved" message in each source channel, with a link to the target team.
 
 CREDIT: 
     Built from the great work of all the individuals who contributed to published code examples.
