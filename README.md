@@ -2,7 +2,7 @@
 
 ## Usage
 
-move-team.ps1 is a PowerShell script used to consolidate teams by copying one team's members, owners, channels, and files to another team.
+move-team.ps1 is a PowerShell script used to consolidate teams by copying one team's members, owners, channels, and files to another team.  Useful for consolidating teams and reducing team sprawl.
 
 What this script does:  
 1. Establish connection to Microsoft Teams and Azure Active Directory in the user's context.  
