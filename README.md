@@ -29,6 +29,9 @@ Run the script with no switches. Menus and prompts are presented at run time.
 
 Please report any issues you find to the [issues list](/issues).
 
+KNOWN ISSUES:  
+- Tabs and Connectors. As of the time of this script's creation, the ability to create tabs and connectors in the target team is not supported.
+
 ## Support Statement
 
 The scripts, samples, and tools made available through the FastTrack Open Source initiative are provided as-is. These resources are developed in partnership with the community and do not represent official Microsoft software. As such, support is not available through premier or other official support channels. If you find an issue or have questions please reach out through the issues list and we'll do our best to assist, but there is no support SLA associated with these tools.
