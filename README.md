@@ -1,7 +1,5 @@
 # Microsoft FastTrack Open Source - move-team script
 
-_INTRODUCTION TO THIS TOOL/REPO_
-
 ## Usage
 
 move-team.ps1 is a PowerShell script used to consolidate teams by copying one team's members, owners, channels, and files to another team.
